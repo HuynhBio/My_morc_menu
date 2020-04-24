@@ -1,2 +1,2 @@
 # morc_menu
-Chỉ dùng rofi
+Mặc định dùng rofi thay cho dmenu
